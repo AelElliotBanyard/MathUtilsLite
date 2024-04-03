@@ -20,17 +20,5 @@
             <url>https://maven.pkg.github.com/AelElliotBanyard/MathUtilsLite</url>
         </repository>
     </distributionManagement>
-    <build>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-deploy-plugin</artifactId>
-                <version>3.0.0-M1</version>
-                <configuration>
-                    <!-- Configuration for deployment -->
-                </configuration>
-            </plugin>
-        </plugins>
-    </build>
 
 </project>
